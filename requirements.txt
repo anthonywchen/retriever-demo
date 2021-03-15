@@ -1,0 +1,4 @@
+jsonlines
+streamlit
+transformers==4.2.2
+torch==1.7.1
